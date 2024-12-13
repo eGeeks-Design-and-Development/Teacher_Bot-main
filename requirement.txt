@@ -1,0 +1,13 @@
+streamlit
+PyPDF2
+python-docx
+python-pptx
+reportlab
+groq
+markdown 
+pdfkit
+#WeasyPrint
+streamlit-option-menu
+python-dotenv==1.0.0
+pdfplumber
+
